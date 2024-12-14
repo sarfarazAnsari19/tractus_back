@@ -12,9 +12,6 @@ A Node.js backend service for managing contracts with real-time updates using We
 ### Environment Variables
 Create a `.env` file in the root directory with the following variables:
 
-```env
-
-
 Install the dependencies:
 
 ```
